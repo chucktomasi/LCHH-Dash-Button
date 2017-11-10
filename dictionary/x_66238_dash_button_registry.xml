@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Button registry" max_length="40" name="x_66238_dash_button_registry" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Description" max_length="100" name="description" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+    </element>
+</database>

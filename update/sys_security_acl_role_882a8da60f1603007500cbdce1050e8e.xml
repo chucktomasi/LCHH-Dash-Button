@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-10 22:23:47</sys_created_on>
+        <sys_id>882a8da60f1603007500cbdce1050e8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_66238_dash_action.x_66238_dash.user</sys_name>
+        <sys_package display_value="Dash" source="x_66238_dash">2eb2c5a20f1603007500cbdce1050e58</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dash">2eb2c5a20f1603007500cbdce1050e58</sys_scope>
+        <sys_security_acl display_value="x_66238_dash_action">402a8da60f1603007500cbdce1050e8c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_882a8da60f1603007500cbdce1050e8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-10 22:23:47</sys_updated_on>
+        <sys_user_role display_value="x_66238_dash.user" name="x_66238_dash.user">beb2c5a20f1603007500cbdce1050e93</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

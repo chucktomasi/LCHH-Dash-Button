@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Action" max_length="40" name="x_66238_dash_action" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="staticDependent=x_66238_dash_button_hit,readable=true" label="Condition" max_length="4000" name="condition" type="conditions"/>
+        <element dependent="table" dependent_on_field="table" label="Field values" max_length="4000" name="field_values" type="template_value" use_dependent_field="true"/>
+        <element label="Table" max_length="80" name="table" type="table_name"/>
+    </element>
+</database>
